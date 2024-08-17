@@ -48,17 +48,18 @@ As a payroll manager, I want an employee payroll tracker so that I can see my em
 
 3. Click the "Add employee" button to start inputting employee information.
 
-4. Follow the prompts to add employees, choose to continue or cancel as needed.
+4. Follow the prompts to add employees, and choose to continue or cancel as needed.
     - View the sorted employee data on the page
     - Check the console for computed and aggregated data.
         - From the page, right-click and select "Inspect"
         - Locate "Console" to ensure the data matches sorted employee data on the page
 
 ## Screenshot
+![employee-payroll-tracker](https://github.com/user-attachments/assets/ab200c8f-5cd1-449a-8d0b-ec914842e930)
 
 
 ## Contact:
-- Feel free to reach out to Lucky Usionya through the contact information provided on the website or through his social media profiles if you have any questions or feedback.
+- Feel free to contact Lucky Usionya through the contact information provided on the website or his social media profiles if you have any questions or feedback.
 
 ## Reference:
 - https://www.w3schools.com/jsref_parseint.asp
