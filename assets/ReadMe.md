@@ -55,7 +55,8 @@ As a payroll manager, I want an employee payroll tracker so that I can see my em
         - Locate "Console" to ensure the data matches sorted employee data on the page
 
 ## Screenshot
-/blob/main/assets/employee-payroll-tracker.png
+![employee-payroll-tracker](https://github.com/user-attachments/assets/ab200c8f-5cd1-449a-8d0b-ec914842e930)
+
 
 ## Contact:
 - Feel free to contact Lucky Usionya through the contact information provided on the website or his social media profiles if you have any questions or feedback.
