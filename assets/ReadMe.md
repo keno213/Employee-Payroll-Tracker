@@ -55,7 +55,7 @@ As a payroll manager, I want an employee payroll tracker so that I can see my em
         - Locate "Console" to ensure the data matches sorted employee data on the page
 
 ## Screenshot
- https://github.com/keno213/Employee-Payroll-Tracker/commit/bea2f3115f802fabc945e9abebd375ab2f678f10
+
 
 ## Contact:
 - Feel free to reach out to Lucky Usionya through the contact information provided on the website or through his social media profiles if you have any questions or feedback.
